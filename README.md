@@ -1,5 +1,9 @@
 #ChatAlytics
 
+THIS REPOSITORY HAS BEEN MOVED TO www.github.com/OpenChatAlytics
+
+FUTURE COMMITS WILL GO THERE FROM NOW ON
+
 [![Gitter](https://badges.gitter.im/gneokleo/ChatAlytics.svg)](https://gitter.im/gneokleo/ChatAlytics?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ##Short Summary
